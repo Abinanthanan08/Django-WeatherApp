@@ -26,7 +26,9 @@ A simple Django application that fetches real-time weather data from the OpenWea
    cd django-weather-app
 
 2.Create a virtual environment
-python -m venv venv && source venv/bin/activate (Windows: venv\Scripts\activate)
+python -m venv venv
+source venv/bin/activate  # For Windows: venv\Scripts\activate
+
 
 3.Install the required packages
 pip install -r requirements.txt
