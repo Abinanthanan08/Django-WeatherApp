@@ -22,7 +22,7 @@ A simple Django application that fetches real-time weather data from the OpenWea
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Abinanthanan08/weather-app.git
+git clone https://github.com/Abinanthanan08/Django-weather-app.git
 cd weather-app
 ```
 ### 2.Set up a virtual environment
