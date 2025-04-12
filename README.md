@@ -38,9 +38,9 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ### 5.Set up the OpenWeatherMap API
--Go to OpenWeatherMap and sign up for an API key.
--In the Django project, create a .env file or directly update settings.py to store your OpenWeatherMap API key.
--Example:
+Go to OpenWeatherMap and sign up for an API key.
+In the Django project, create a .env file or directly update settings.py to store your OpenWeatherMap API key.
+Example:
 ```bash
 OPENWEATHERMAP_API_KEY = 'your-api-key-here'
 ```
@@ -49,8 +49,9 @@ OPENWEATHERMAP_API_KEY = 'your-api-key-here'
 python manage.py runserver
 ```
 ### 7.Access the app
--Open your browser and go to http://127.0.0.1:8000/
--Input a city name, and it will display the current weather details.
+Open your browser and go to http://127.0.0.1:8000/
+
+Input a city name, and it will display the current weather details.
 
 
 
